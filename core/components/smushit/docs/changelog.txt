@@ -1,0 +1,5 @@
+Changelog for SmushIt package.
+
+SmushIt 1.0 - 24/10/2016
+=====================================
+- First version. Feedback and commments welcome.
