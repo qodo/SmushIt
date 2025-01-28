@@ -15,9 +15,9 @@ As this is a first release, your feedback and requests are welcome.
 ## Further info
 
 For information and support, check out my blog:
-https://www.qodo.co.uk/blog/smushit-a-modx-extra-for-optimising-images/
+https://www.stewartorr.co.uk/smushit
 
 Or download this from MODX.com
 https://modx.com/extras/package/smushit
 
-Created by Stewart Orr @ Qodo Ltd (https://www.qodo.co.uk).
+Created by Stewart Orr (https://www.stewartorr.co.uk).
